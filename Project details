@@ -1,0 +1,28 @@
+# Flask School Project
+
+## Description
+This project is a Flask web application developed for CS492 Sprint 2. It includes a login system, dashboard, and password change functionality.
+
+## Features
+- User login page
+- Dashboard page
+- Change password functionality
+- Backend validation using Flask
+
+## Technologies Used
+- Python
+- Flask
+- HTML
+
+## How to Run
+1. Install Flask:
+   pip install flask
+
+2. Run the application:
+   python app.py
+
+3. Open in browser:
+   http://127.0.0.1:5000/
+
+## Author
+Claude Aboke Alobo
