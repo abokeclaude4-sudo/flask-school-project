@@ -7,7 +7,7 @@ app = Flask(__name__)
 def home():
     return render_template('index.html')
 
-
+# First GitHub update
 # Login Page
 @app.route('/login', methods=['GET', 'POST'])
 def login():
